@@ -1,2 +1,2 @@
-# Tensiones_Terraplen_TFG
+# Tensiones_Terraplen usando streamlit como soporte web
 # codigo desarrollado para el cálculo tenso deformacional de cargas de terraplen TFG
